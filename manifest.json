@@ -1,6 +1,6 @@
 {
     "name": "MCT Boilerplate",
-    "short_name": "BR",
+    "short_name": "Boilerplate",
     "icons": [{
       "src": "google-touch-icon.png",
       "sizes": "512x512"
